@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OliviaFrankiw/OliviaFrankiw/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/OliviaFrankiw/OliviaFrankiw/output/snake.svg" alt="Snake animation" />
 
 ###
 
